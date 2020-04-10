@@ -22,5 +22,6 @@ int main()
   freopen("output.txt","w",stdout);
 	freopen("err.txt","w",stderr);
   #endif
-  cout<<"Hello World!";
+  cout<<"Hello Worl";
+  cerr<<"Error Occured";
 }
